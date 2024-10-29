@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|c:\\users\\idan9\\documents\\github\\3d-runner-idand\\assets\\scripts\\player\\pmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\pmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|c:\\users\\idan9\\documents\\github\\3d-runner-idand\\assets\\scripts\\ev\\levelbund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ev\\levelbund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "levelbund.cs",
+              "DocumentMoniker": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\scripts\\ev\\levelbund.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ev\\levelbund.cs",
+              "ToolTip": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\scripts\\ev\\levelbund.cs",
+              "RelativeToolTip": "Assets\\scripts\\ev\\levelbund.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:33:20.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pmove.cs",
+              "DocumentMoniker": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\scripts\\player\\Pmove.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\Pmove.cs",
+              "ToolTip": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\scripts\\player\\Pmove.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\Pmove.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:45:33.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
