@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class levelbund : MonoBehaviour
 {
-    public static float leftSide = -2f; 
-    public static float rightSide = 2f; 
+    public static float leftSide = -1f; 
+    public static float rightSide = 3f; 
     public static float topSide;
     public float interanlLeft;
     public float interanlRight;

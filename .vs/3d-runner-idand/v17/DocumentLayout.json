@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|c:\\users\\idan9\\documents\\github\\3d-runner-idand\\assets\\scripts\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|c:\\users\\idan9\\documents\\github\\3d-runner-idand\\assets\\scripts\\player\\pmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\pmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\assets\\cont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\cont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\assets\\scripts\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\assets\\eg_menuassest\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\eg_menuassest\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\assets\\eg_menuassest\\readme.txt.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\eg_menuassest\\readme.txt.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\SlimUI\\Editor\\SlimUIWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SlimUI\\Editor\\SlimUIWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\assets\\scripts\\ev\\genlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ev\\genlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\assets\\scripts\\player\\pmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\pmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\assets\\scripts\\ev\\levelbund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ev\\levelbund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\assets\\eg_menuassest\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\eg_menuassest\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\SlimUI\\Editor\\SlimUIWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SlimUI\\Editor\\SlimUIWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +42,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "cont.cs",
+              "DocumentMoniker": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\cont.cs",
+              "RelativeDocumentMoniker": "Assets\\cont.cs",
+              "ToolTip": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\cont.cs",
+              "RelativeToolTip": "Assets\\cont.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:45:44.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnityRemoteSupport.cs",
+              "DocumentMoniker": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs",
+              "ToolTip": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAEwD0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:38:47.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "menu.cs",
               "DocumentMoniker": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\scripts\\menu\\menu.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\menu\\menu.cs",
@@ -50,12 +78,11 @@
               "RelativeToolTip": "Assets\\scripts\\menu\\menu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T18:04:01.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T18:04:01.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\EG_MenuAssest\\Scripts\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\EG_MenuAssest\\Scripts\\MainMenu.cs",
@@ -67,19 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReadMe.txt.txt",
-              "DocumentMoniker": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\EG_MenuAssest\\ReadMe.txt.txt",
-              "RelativeDocumentMoniker": "Assets\\EG_MenuAssest\\ReadMe.txt.txt",
-              "ToolTip": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\EG_MenuAssest\\ReadMe.txt.txt",
-              "RelativeToolTip": "Assets\\EG_MenuAssest\\ReadMe.txt.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-29T17:40:33.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "SlimUIWindow.cs",
               "DocumentMoniker": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\SlimUI\\Editor\\SlimUIWindow.cs",
               "RelativeDocumentMoniker": "Assets\\SlimUI\\Editor\\SlimUIWindow.cs",
@@ -96,33 +111,34 @@
               "RelativeDocumentMoniker": "Assets\\scripts\\ev\\genLevel.cs",
               "ToolTip": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\scripts\\ev\\genLevel.cs",
               "RelativeToolTip": "Assets\\scripts\\ev\\genLevel.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBsAAAAbAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T17:12:16.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "levelbund.cs",
               "DocumentMoniker": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\scripts\\ev\\levelbund.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\ev\\levelbund.cs",
               "ToolTip": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\scripts\\ev\\levelbund.cs",
               "RelativeToolTip": "Assets\\scripts\\ev\\levelbund.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T14:33:20.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Pmove.cs",
               "DocumentMoniker": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\scripts\\player\\Pmove.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\player\\Pmove.cs",
               "ToolTip": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\scripts\\player\\Pmove.cs",
               "RelativeToolTip": "Assets\\scripts\\player\\Pmove.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA2AAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAEwBEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:45:33.131Z"
+              "WhenOpened": "2024-10-29T13:45:33.131Z",
+              "EditorCaption": ""
             }
           ]
         }
