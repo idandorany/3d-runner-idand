@@ -10,7 +10,7 @@ public class genLevel : MonoBehaviour
     public int secNum;
    
 
-    // Update is called once per frame
+    
     void Update()
     {
         if (creatsection == false)

@@ -8,25 +8,25 @@ public class Pmove : MonoBehaviour
     public bool isJumping = false;
     public bool comingDown = false;
     public GameObject playerObject;
-    public Joystick joystick; 
+    public Joystick joystick;
 
     void Update()
     {
         // Move forward
         transform.Translate(Vector3.forward * Time.deltaTime * moveSpeed, Space.World);
 
-        
-        float horizontalInput = joystick.Horizontal; 
 
-        // Check keyboard input for left and right movement
-        if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow) || horizontalInput < 0) // Move left
+        float horizontalInput = joystick.Horizontal;
+
+        
+        if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow) || horizontalInput < 0) 
         {
             if (this.gameObject.transform.position.x > levelbund.leftSide)
             {
                 transform.Translate(Vector3.left * Time.deltaTime * leftRightSpeed);
             }
         }
-        else if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow) || horizontalInput > 0) // Move right
+        else if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow) || horizontalInput > 0) 
         {
             if (this.gameObject.transform.position.x < levelbund.rightSide)
             {
@@ -34,8 +34,8 @@ public class Pmove : MonoBehaviour
             }
         }
 
-        // Handle jumping
-        if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow) || joystick.Vertical > 0) // Jump if W, UpArrow, or joystick up is pressed
+        
+        if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow) || joystick.Vertical > 0) 
         {
             if (!isJumping)
             {
@@ -45,7 +45,7 @@ public class Pmove : MonoBehaviour
             }
         }
 
-        // Manage jump movement
+        
         if (isJumping)
         {
             if (!comingDown)

@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "D:\\git121\\3d-runner-idand\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|D:\\git121\\3d-runner-idand\\assets\\scripts\\ev\\genlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ev\\genlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|d:\\git121\\3d-runner-idand\\assets\\scripts\\ev\\obstaclecoll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ev\\obstaclecoll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|d:\\git121\\3d-runner-idand\\assets\\scripts\\cole\\colecoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|D:\\git121\\3d-runner-idand\\assets\\scripts\\ev\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ev\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|D:\\git121\\3d-runner-idand\\assets\\scripts\\cole\\runing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cole\\runing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|D:\\git121\\3d-runner-idand\\assets\\scripts\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|D:\\git121\\3d-runner-idand\\assets\\scripts\\cole\\colecoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cole\\colecoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,8 +31,12 @@
       "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\pmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|D:\\git121\\3d-runner-idand\\assets\\scripts\\cole\\runing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cole\\runing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git121\\3d-runner-idand\\Assets\\scripts\\player\\stop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\player\\stop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\git121\\3d-runner-idand\\assets\\scripts\\player\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\player\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|D:\\git121\\3d-runner-idand\\assets\\scripts\\cole\\colecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,14 +55,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|D:\\git121\\3d-runner-idand\\assets\\scripts\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|D:\\git121\\3d-runner-idand\\assets\\scripts\\ev\\genlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ev\\genlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|D:\\git121\\3d-runner-idand\\assets\\scripts\\ev\\levelbund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F3CE835-56C6-B4FF-F1F3-BD52318F0171}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ev\\levelbund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -52,6 +64,14 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\SlimUI\\Editor\\SlimUIWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git121\\3d-runner-idand\\assets\\scripts\\player\\idletimermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\player\\idletimermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git121\\3d-runner-idand\\assets\\scripts\\menu\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\menu\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,109 +81,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ObstacleColl.cs",
-              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\ev\\ObstacleColl.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\ev\\ObstacleColl.cs",
-              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\ev\\ObstacleColl.cs",
-              "RelativeToolTip": "Assets\\scripts\\ev\\ObstacleColl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "DocumentIndex": 2,
+              "Title": "endgame.cs",
+              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\ev\\endgame.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ev\\endgame.cs",
+              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\ev\\endgame.cs*",
+              "RelativeToolTip": "Assets\\scripts\\ev\\endgame.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:09:52.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "runing.cs",
-              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\runing.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\cole\\runing.cs",
-              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\runing.cs",
-              "RelativeToolTip": "Assets\\scripts\\cole\\runing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T17:33:49.914Z"
+              "WhenOpened": "2024-11-21T03:51:24.784Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "colecontrol.cs",
-              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\colecontrol.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\cole\\colecontrol.cs",
-              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\colecontrol.cs",
-              "RelativeToolTip": "Assets\\scripts\\cole\\colecontrol.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:47:10.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "colecoin.cs",
-              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\colecoin.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\cole\\colecoin.cs",
-              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\colecoin.cs",
-              "RelativeToolTip": "Assets\\scripts\\cole\\colecoin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:25:40.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ro.cs",
-              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\ro.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\cole\\ro.cs",
-              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\ro.cs",
-              "RelativeToolTip": "Assets\\scripts\\cole\\ro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:12:35.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "cont.cs",
-              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\cont.cs",
-              "RelativeDocumentMoniker": "Assets\\cont.cs",
-              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\cont.cs",
-              "RelativeToolTip": "Assets\\cont.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T22:45:44.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UnityRemoteSupport.cs",
-              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs",
-              "ToolTip": "D:\\git121\\3d-runner-idand\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAEwD0AAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T22:38:47.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "menu.cs",
               "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\menu\\menu.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\menu\\menu.cs",
               "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\menu\\menu.cs",
               "RelativeToolTip": "Assets\\scripts\\menu\\menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T18:04:01.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\EG_MenuAssest\\Scripts\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\EG_MenuAssest\\Scripts\\MainMenu.cs",
@@ -175,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "SlimUIWindow.cs",
               "DocumentMoniker": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\SlimUI\\Editor\\SlimUIWindow.cs",
               "ToolTip": "C:\\Users\\idan9\\Documents\\GitHub\\3d-runner-idand\\Assets\\SlimUI\\Editor\\SlimUIWindow.cs",
@@ -184,19 +130,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "Pmove.cs",
+              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\player\\Pmove.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\Pmove.cs",
+              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\player\\Pmove.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\Pmove.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:45:33.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\player\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\NewBehaviourScript.cs",
+              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\player\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\NewBehaviourScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:35:16.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "genLevel.cs",
               "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\ev\\genLevel.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\ev\\genLevel.cs",
               "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\ev\\genLevel.cs",
               "RelativeToolTip": "Assets\\scripts\\ev\\genLevel.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBoAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T17:12:16.69Z"
+              "WhenOpened": "2024-10-29T17:12:16.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "levelbund.cs",
               "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\ev\\levelbund.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\ev\\levelbund.cs",
@@ -208,15 +179,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pmove.cs",
-              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\player\\Pmove.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\player\\Pmove.cs",
-              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\player\\Pmove.cs",
-              "RelativeToolTip": "Assets\\scripts\\player\\Pmove.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "DocumentIndex": 3,
+              "Title": "runing.cs",
+              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\runing.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\cole\\runing.cs",
+              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\runing.cs",
+              "RelativeToolTip": "Assets\\scripts\\cole\\runing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:45:33.131Z"
+              "WhenOpened": "2024-11-19T17:33:49.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\menu\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\menu\\NewBehaviourScript.cs",
+              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\menu\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\menu\\NewBehaviourScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:10:40.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObstacleColl.cs",
+              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\ev\\ObstacleColl.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ev\\ObstacleColl.cs",
+              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\ev\\ObstacleColl.cs",
+              "RelativeToolTip": "Assets\\scripts\\ev\\ObstacleColl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:09:52.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnityRemoteSupport.cs",
+              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs",
+              "ToolTip": "D:\\git121\\3d-runner-idand\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Plugins\\UnityRemote\\UnityRemoteSupport.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAEwD0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:38:47.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cont.cs",
+              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\cont.cs",
+              "RelativeDocumentMoniker": "Assets\\cont.cs",
+              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\cont.cs",
+              "RelativeToolTip": "Assets\\cont.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:45:44.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ro.cs",
+              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\ro.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\cole\\ro.cs",
+              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\ro.cs",
+              "RelativeToolTip": "Assets\\scripts\\cole\\ro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:12:35.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "colecoin.cs",
+              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\colecoin.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\cole\\colecoin.cs",
+              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\colecoin.cs",
+              "RelativeToolTip": "Assets\\scripts\\cole\\colecoin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:25:40.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "colecontrol.cs",
+              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\colecontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\cole\\colecontrol.cs",
+              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\cole\\colecontrol.cs",
+              "RelativeToolTip": "Assets\\scripts\\cole\\colecontrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:47:10.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "stop.cs",
+              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\player\\stop.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\stop.cs",
+              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\player\\stop.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\stop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:24:19.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdleTimerManager.cs",
+              "DocumentMoniker": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\player\\IdleTimerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\IdleTimerManager.cs",
+              "ToolTip": "D:\\git121\\3d-runner-idand\\Assets\\scripts\\player\\IdleTimerManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\IdleTimerManager.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwDAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:40:19.564Z"
             }
           ]
         }

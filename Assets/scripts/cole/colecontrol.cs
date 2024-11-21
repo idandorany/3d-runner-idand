@@ -1,16 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;  // Add this to use TextMeshPro
+using TMPro;  
 
 public class colecontrol : MonoBehaviour
 {
     public static int coinCount;
     public GameObject coinCountDisplay;
+    public GameObject coinEndDisplay;
 
     void Update()
     {
-        // Check if the coinCountDisplay is assigned and if it's a TextMeshProUGUI component
+        
         if (coinCountDisplay != null)
         {
             coinCountDisplay.GetComponent<TextMeshProUGUI>().text = coinCount.ToString();
@@ -19,5 +20,6 @@ public class colecontrol : MonoBehaviour
         {
             Debug.LogError("coinCountDisplay is not assigned!");
         }
+
     }
 }

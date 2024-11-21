@@ -28,7 +28,7 @@ public class MainMenu : MonoBehaviour
 
     public void QuitGame()
     {
-        Application.Quit(); // Oyunu kapat
+        Application.Quit(); 
     }
 
     public void Setaudio(float value)

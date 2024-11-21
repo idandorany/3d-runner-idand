@@ -376,6 +376,7 @@
 "Assets/scripts/cole/colecontrol.cs"
 "Assets/scripts/cole/ro.cs"
 "Assets/scripts/cole/runing.cs"
+"Assets/scripts/ev/endgame.cs"
 "Assets/scripts/ev/genLevel.cs"
 "Assets/scripts/ev/levelbund.cs"
 "Assets/scripts/ev/ObstacleColl.cs"
